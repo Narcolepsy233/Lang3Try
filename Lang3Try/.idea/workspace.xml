@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lang3Try:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36665c45-e70c-4940-b198-a67c698e71cc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="97" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UF4klb2gpb17d7W5K2BV8IXdtA" />
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="lang3try" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/module_lang3try.xml" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Lang3TryToUseTest">
+    <configuration name="Lang3TryToUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lang3TryToUse" />
+      <module name="Lang3Try" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lang3TryToUseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lang3Try" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="Lang3TryToUseTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lang3TryToUseTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lang3TryToUseTest.test_isDigits" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lang3Try" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lang3TryToUseTest" />
+      <option name="METHOD_NAME" value="test_isDigits" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lang3TryToUseTest.test_judge1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lang3Try" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lang3TryToUseTest" />
+      <option name="METHOD_NAME" value="test_judge1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lang3TryToUseTest.test_max" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lang3Try" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Lang3TryToUseTest" />
+      <option name="METHOD_NAME" value="test_max" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Lang3TryToUse" />
+      <item itemvalue="JUnit.Lang3TryToUseTest" />
+      <item itemvalue="JUnit.Lang3TryToUseTest.test_max" />
+      <item itemvalue="JUnit.Lang3TryToUseTest.test_judge1" />
+      <item itemvalue="JUnit.Lang3TryToUseTest.test_isDigits" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Lang3TryToUseTest" />
+        <item itemvalue="Application.Lang3TryToUse" />
+        <item itemvalue="JUnit.Lang3TryToUseTest.test_isDigits" />
+        <item itemvalue="JUnit.Lang3TryToUseTest.test_judge1" />
+        <item itemvalue="JUnit.Lang3TryToUseTest.test_max" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36665c45-e70c-4940-b198-a67c698e71cc" name="Default Changelist" comment="" />
+      <created>1574939154656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574939154656</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lang3Try$Lang3TryToUse.ic" NAME="Lang3TryToUse Coverage Results" MODIFIED="1575015002252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Lang3Try$Lang3TryToUseTest.ic" NAME="Lang3TryToUseTest Coverage Results" MODIFIED="1575017558357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Lang3TryToUseTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lang3Try$Lang3TryToUseTest_test_max.ic" NAME="Lang3TryToUseTest.test_max Coverage Results" MODIFIED="1574993483933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Lang3Try$Lang3TryToUseTest_test_judge1.ic" NAME="Lang3TryToUseTest.test_judge1 Coverage Results" MODIFIED="1574994006401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Lang3Try$Lang3TryToUseTest_test_isDigits.ic" NAME="Lang3TryToUseTest.test_isDigits Coverage Results" MODIFIED="1574994385351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
